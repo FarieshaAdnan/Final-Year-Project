@@ -109,6 +109,7 @@ The system shall be deployable on cloud or local servers.
 Accuracy
 The system shall maintain location accuracy within acceptable GPS error (±5–10 meters).
 The system shall minimize false geofence triggers.
+
 **System Modules**
 1. GPS Data Acquisition Module
 Collects real-time location data from buses
@@ -140,6 +141,7 @@ Provides analytics and reports
 Handles login, roles, and permissions
 10. API / Integration Module
 Connects with external systems or GPS devices
+
 **Hardware Requirements**
 On-Bus Hardware
 GPS tracking device or smartphone with GPS
@@ -170,6 +172,7 @@ Android Studio
 Communication Protocols
 HTTP/HTTPS
 MQTT (optional for IoT optimization)
+
 **Project Constraints**
 Technical Constraints
 Limited GPS accuracy in remote or forested regions
